@@ -1,4 +1,4 @@
-# **Massively by HTML5 UP**
+# ** Massively by HTML5 UP **
 using template from https://html5up.net/
 
 * using VS Code to customize index.html. adding 'Live Server' extension in order to open this file on web browser
