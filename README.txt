@@ -1,4 +1,4 @@
-Massively by HTML5 UP
+# **Massively by HTML5 UP**
 using template from https://html5up.net/
 
 * using VS Code to customize index.html. adding 'Live Server' extension in order to open this file on web browser
@@ -9,7 +9,7 @@ go to repository -> settings -> pages
 under 'Build and deployment' select 'github actions' and then select 'deploy from a branch'
 go to /root folder button, replace with /docs and save. then go back to /root and save. after a few seconds up to a minute you should see the website url created:
 
-Your site is live at https://eyalsad70.github.io/my_web_portfolio/
+## **Your site is live at https://eyalsad70.github.io/my_web_portfolio/**
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
